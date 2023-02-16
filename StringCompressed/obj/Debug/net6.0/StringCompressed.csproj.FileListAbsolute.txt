@@ -1,0 +1,15 @@
+C:\Users\fraec\Desktop\Backend\StringCompressed\bin\Debug\net6.0\StringCompressed.exe
+C:\Users\fraec\Desktop\Backend\StringCompressed\bin\Debug\net6.0\StringCompressed.deps.json
+C:\Users\fraec\Desktop\Backend\StringCompressed\bin\Debug\net6.0\StringCompressed.runtimeconfig.json
+C:\Users\fraec\Desktop\Backend\StringCompressed\bin\Debug\net6.0\StringCompressed.dll
+C:\Users\fraec\Desktop\Backend\StringCompressed\bin\Debug\net6.0\StringCompressed.pdb
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.csproj.AssemblyReference.cache
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.AssemblyInfoInputs.cache
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.AssemblyInfo.cs
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.csproj.CoreCompileInputs.cache
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.dll
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\refint\StringCompressed.dll
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.pdb
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\StringCompressed.genruntimeconfig.cache
+C:\Users\fraec\Desktop\Backend\StringCompressed\obj\Debug\net6.0\ref\StringCompressed.dll
